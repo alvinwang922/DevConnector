@@ -1,7 +1,4 @@
 # DevConnector
 
-# "npm run client" for frontend
-
-# "npm run server" for backend
-
-# "npm run dev" for concurrently
+MERN Stack Application to connect developers from across the world.
+Try it now: http://acwang.xyz
